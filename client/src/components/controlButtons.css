@@ -1,0 +1,21 @@
+@media only screen and (max-width: 370px) {
+  h1.display-2 {
+    text-align: center !important;
+  }
+}
+
+@media only screen and (max-width: 414px) {
+  button {
+    width: 100%;
+  }
+  p.lead {
+    text-align: center;
+  }
+}
+
+@media only screen and (max-height: 823px) {
+  .jumbotron {
+    margin-bottom: 0;
+    height: 100%;
+  }
+}
